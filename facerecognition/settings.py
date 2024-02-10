@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-dcik%wlwkxkfuf@t0nr9*ep_%1inrnn*)uj8-i@1xm!^2@p-#6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '.vercel.app', 'face recognition', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = [ '.vercel.app',  '127.0.0.1', 'localhost']
 
 
 # Application definition
